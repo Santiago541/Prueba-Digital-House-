@@ -1,0 +1,2 @@
+https://eloquentjavascript.net/
+https://github.com/pablojorgeandres/notas-clases/blob/master/fundamentosJS.md#-08---objetos-
